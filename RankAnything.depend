@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650665476 source:c:\users\joeya\onedrive\desktop\programs\rankanything\rankmain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
